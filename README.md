@@ -7,7 +7,7 @@ It's useful for debugging proxy server configurations.
 Installation
 ------------
 
-	go get https://github.com/jbarham/http-headers
+	go get github.com/jbarham/http-headers
 
 About
 -----
